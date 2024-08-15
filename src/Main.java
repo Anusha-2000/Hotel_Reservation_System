@@ -9,7 +9,7 @@ public class Main {
     //System.out.println(url);
     //Database credentials
     private static final String username = "root";
-    private static final String password = "MySqlPassword@2024";
+    private static final String password = "***************";
 
     public static void main(String[] args) throws RuntimeException {
         Scanner scn = new Scanner((System.in));
